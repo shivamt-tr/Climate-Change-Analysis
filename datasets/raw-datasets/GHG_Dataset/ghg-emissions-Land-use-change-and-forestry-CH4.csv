@@ -1,0 +1,196 @@
+Country/Region,unit,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Indonesia,MtCO2e,64.77,64.77,64.77,64.77,64.77,64.77,17.73,262.13,71.31,27.05,8.18,8.65,122.15,37.36,118.49,53.50,146.28,10.10,7.46,96.33,5.83,47.70,50.44,43.11,120.90,132.40,13.60,5.42,47.60
+Democratic Republic of the Congo,MtCO2e,13.50,13.50,13.50,13.50,13.50,13.50,19.01,23.95,24.60,20.15,17.84,6.60,9.87,11.68,12.23,12.35,13.01,10.98,11.97,11.77,12.19,12.49,11.63,11.87,11.30,12.45,12.55,12.04,10.34
+Zambia,MtCO2e,7.46,7.46,7.46,7.46,7.46,7.46,5.88,5.66,5.31,5.33,3.25,4.56,4.97,6.56,6.76,7.40,6.34,7.34,8.24,7.13,8.90,8.44,8.49,8.66,8.87,10.84,10.34,10.23,9.49
+Libya,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Liechtenstein,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Mozambique,MtCO2e,8.06,8.06,8.06,8.06,8.06,8.06,1.94,1.22,1.70,1.40,0.35,7.42,6.53,8.54,8.23,9.64,9.52,9.74,11.50,9.95,13.03,9.68,11.02,11.09,10.40,9.77,11.03,10.13,10.63
+Central African Republic,MtCO2e,7.86,7.86,7.86,7.86,7.86,7.86,1.76,4.06,6.41,5.37,4.08,8.36,7.44,11.72,7.70,10.26,9.69,10.59,9.90,6.93,9.48,10.06,9.19,7.97,6.81,7.59,10.15,8.58,8.33
+Angola,MtCO2e,7.00,7.00,7.00,7.00,7.00,7.00,12.28,10.95,14.77,13.76,9.92,3.90,4.47,4.91,5.53,5.89,5.41,5.46,5.60,6.25,6.53,5.70,6.07,5.46,5.70,6.16,5.75,6.96,4.44
+Myanmar,MtCO2e,5.96,5.96,5.96,5.96,5.96,5.96,6.95,6.34,9.35,9.65,5.87,2.89,2.25,5.48,9.91,5.11,5.28,8.64,3.77,7.64,8.58,3.83,6.00,5.26,6.36,7.24,4.37,4.22,4.27
+Russia,MtCO2e,3.82,3.82,3.79,3.79,3.79,3.79,12.31,4.60,8.78,5.88,6.61,1.56,2.11,3.72,3.80,1.81,2.86,1.46,5.45,2.27,2.86,3.03,3.71,1.42,3.37,1.45,3.44,1.95,3.44
+Tanzania,MtCO2e,3.06,3.06,3.06,3.06,3.06,3.06,1.05,1.07,1.57,0.88,0.46,1.90,2.37,4.19,3.74,5.02,3.64,3.51,3.78,4.52,4.20,3.39,3.94,3.12,3.02,4.25,3.85,3.86,2.92
+India,MtCO2e,2.10,2.10,2.10,2.10,2.10,2.10,1.25,1.07,1.09,2.25,1.28,0.57,0.42,1.69,2.58,1.49,1.50,2.59,1.52,4.85,3.74,1.89,4.48,2.55,2.10,1.61,2.11,3.43,2.83
+Brazil,MtCO2e,5.55,5.55,5.55,5.55,5.55,5.55,8.93,10.91,19.32,14.76,2.17,2.10,5.31,4.76,5.40,6.85,3.13,8.20,2.56,1.07,8.16,1.80,3.62,1.05,2.35,4.60,3.83,5.85,1.74
+Canada,MtCO2e,0.92,0.92,0.92,0.92,0.92,0.92,3.37,1.71,6.44,2.69,1.38,0.04,0.06,0.31,0.20,0.08,0.14,0.06,0.06,0.10,0.18,0.16,0.33,0.29,0.30,0.74,0.39,0.59,1.55
+Malaysia,MtCO2e,2.44,2.44,2.44,2.44,2.44,2.44,1.56,2.10,10.98,1.33,1.33,0.04,1.64,1.54,3.50,4.07,1.06,2.34,1.05,5.05,2.84,2.09,1.36,1.62,5.53,1.91,2.13,0.06,1.46
+Cambodia,MtCO2e,2.32,2.32,2.32,2.32,2.32,2.32,0.36,1.20,3.74,2.50,2.09,1.88,2.80,3.25,3.70,2.27,3.16,3.09,2.70,2.80,2.07,2.77,2.12,2.19,2.05,2.28,2.08,1.90,1.28
+United States,MtCO2e,0.93,0.93,0.93,0.93,0.93,0.93,1.93,0.91,1.82,2.11,2.17,0.26,0.71,0.59,0.58,0.45,0.52,0.75,0.99,0.53,0.44,0.64,0.56,0.62,0.64,1.10,0.69,1.28,1.18
+Bolivia,MtCO2e,3.00,3.00,3.00,3.00,3.00,3.00,4.92,5.24,5.20,9.10,2.21,0.94,2.47,0.94,5.57,2.54,3.08,4.84,1.89,0.76,8.64,1.84,1.39,0.57,0.35,1.12,1.53,0.78,0.94
+Australia,MtCO2e,2.24,2.24,2.24,2.24,2.24,2.24,4.18,6.28,4.89,6.77,2.20,1.06,2.05,3.62,0.36,0.32,2.79,1.00,0.22,1.61,0.26,0.50,0.78,1.35,1.03,0.64,0.83,0.53,0.81
+Thailand,MtCO2e,1.21,1.21,1.21,1.21,1.21,1.21,1.24,1.21,2.98,1.70,1.02,0.30,0.60,0.71,2.23,1.09,0.64,1.89,0.80,1.25,1.03,0.48,1.12,0.58,1.58,1.24,1.29,1.29,0.59
+Chad,MtCO2e,1.15,1.15,1.15,1.15,1.15,1.15,1.54,2.35,5.12,4.99,3.11,0.38,0.47,0.62,0.62,0.44,0.69,0.87,0.56,0.28,0.65,0.63,0.78,0.47,0.44,0.47,0.78,0.54,0.50
+Mexico,MtCO2e,1.31,1.31,1.31,1.31,1.31,1.31,1.23,1.40,7.43,3.78,3.80,0.38,0.74,1.60,0.25,1.05,0.78,0.54,0.76,0.72,0.38,1.07,0.51,1.11,0.09,0.50,0.60,0.96,0.45
+South Sudan,MtCO2e,0.59,0.59,0.59,0.59,0.59,0.59,3.33,8.29,12.29,13.77,8.94,0.30,0.30,0.65,0.69,0.92,0.38,0.74,0.74,0.60,0.54,0.79,0.49,0.62,0.56,0.38,0.57,0.42,0.44
+Colombia,MtCO2e,0.17,0.17,0.17,0.17,0.17,0.17,0.17,0.44,0.46,0.28,0.56,0.05,0.02,0.12,0.36,0.03,0.07,0.30,0.08,0.04,0.03,0.04,0.05,0.06,0.14,0.14,0.15,0.08,0.42
+Ethiopia,MtCO2e,0.81,0.81,0.81,0.80,0.80,0.80,0.66,2.02,1.90,2.80,2.21,0.40,0.47,0.62,0.60,0.67,0.62,0.68,0.54,0.35,0.56,0.58,0.61,0.46,0.47,0.43,0.45,0.46,0.35
+Laos,MtCO2e,1.14,1.14,1.14,1.14,1.14,1.14,1.76,1.32,2.92,2.02,1.36,0.15,0.53,0.70,2.52,1.24,0.62,2.69,0.39,0.66,1.96,0.35,0.79,0.94,0.86,0.76,1.23,0.43,0.33
+China,MtCO2e,0.44,0.44,0.44,0.44,0.44,0.44,0.77,0.82,0.97,0.88,0.99,0.34,0.20,0.71,0.54,0.27,0.21,0.30,0.84,0.36,0.37,0.22,0.18,0.19,0.30,0.27,0.28,0.15,0.32
+Madagascar,MtCO2e,0.33,0.33,0.33,0.33,0.33,0.33,0.89,0.50,0.69,0.67,0.13,0.14,0.09,0.12,0.17,0.38,0.25,0.18,0.08,0.24,0.46,0.49,0.21,0.34,0.15,0.49,0.35,0.40,0.29
+Cameroon,MtCO2e,0.73,0.73,0.73,0.73,0.73,0.73,1.30,1.26,2.98,2.17,1.70,0.28,0.38,1.05,0.45,0.97,0.36,0.33,0.56,0.35,0.45,0.39,0.29,0.36,0.21,0.22,0.37,0.35,0.25
+South Africa,MtCO2e,0.30,0.30,0.30,0.30,0.30,0.30,1.05,1.06,1.79,1.19,0.38,0.03,0.05,0.13,0.04,0.16,0.04,0.19,0.11,0.06,0.08,0.05,0.07,0.06,0.09,0.05,0.07,0.10,0.25
+Republic of Congo,MtCO2e,0.18,0.18,0.18,0.18,0.18,0.18,0.35,0.33,0.27,0.30,0.23,0.06,0.04,0.18,0.15,0.16,0.18,0.13,0.11,0.12,0.18,0.22,0.14,0.15,0.07,0.17,0.27,0.13,0.21
+Vietnam,MtCO2e,0.55,0.55,0.55,0.55,0.55,0.55,0.50,0.37,1.37,0.74,0.77,0.16,1.02,0.54,0.69,0.66,0.31,0.76,0.23,0.32,0.55,0.28,0.36,0.72,0.52,0.32,0.41,0.19,0.19
+Nepal,MtCO2e,0.31,0.31,0.31,0.31,0.31,0.31,0.25,0.18,0.30,0.38,0.31,0.20,0.04,0.34,0.28,0.29,0.17,0.11,0.24,0.35,0.42,0.24,0.42,0.44,0.43,0.06,1.07,0.26,0.18
+Malawi,MtCO2e,0.18,0.18,0.18,0.18,0.18,0.18,0.20,0.12,0.16,0.15,0.04,0.12,0.13,0.23,0.15,0.25,0.12,0.17,0.21,0.09,0.30,0.18,0.27,0.17,0.23,0.22,0.31,0.15,0.18
+Zimbabwe,MtCO2e,0.11,0.11,0.11,0.11,0.11,0.11,0.15,0.29,0.33,0.21,0.01,0.01,0.02,0.03,0.04,0.08,0.05,0.11,0.12,0.08,0.14,0.08,0.12,0.11,0.08,0.14,0.11,0.06,0.11
+Honduras,MtCO2e,0.21,0.21,0.21,0.21,0.21,0.21,0.25,0.53,0.75,0.41,0.52,0.01,0.03,0.52,0.01,0.36,0.07,0.08,0.09,0.15,0.10,0.23,0.02,0.14,0.18,0.11,0.16,0.05,0.10
+Venezuela,MtCO2e,0.37,0.37,0.37,0.37,0.37,0.37,0.63,0.82,2.23,0.86,1.26,0.22,0.03,0.65,0.06,0.12,0.07,0.20,0.07,0.04,0.42,0.03,0.02,0.13,0.10,0.13,0.31,0.04,0.10
+Guinea-Bissau,MtCO2e,0.15,0.15,0.15,0.15,0.15,0.15,0.01,0.04,0.23,0.39,0.19,0.07,0.11,0.13,0.18,0.18,0.23,0.22,0.15,0.12,0.15,0.11,0.22,0.13,0.17,0.23,0.11,0.08,0.07
+Paraguay,MtCO2e,0.50,0.50,0.50,0.50,0.50,0.50,1.12,1.48,1.24,3.18,0.61,0.22,0.61,0.33,0.18,0.35,0.19,0.78,0.10,0.08,0.13,0.14,0.08,0.15,0.04,0.03,0.07,0.28,0.07
+Argentina,MtCO2e,0.67,0.67,0.67,0.67,0.67,0.67,2.15,2.62,2.42,3.45,1.59,0.15,0.16,0.23,0.30,0.25,0.23,0.22,0.26,0.32,0.19,0.13,0.15,0.45,0.04,0.12,0.09,0.32,0.07
+Papua New Guinea,MtCO2e,0.56,0.56,0.56,0.56,0.56,0.56,0.32,10.85,0.40,0.35,0.24,0.01,0.12,0.04,0.22,0.02,0.07,0.01,0.02,0.02,0.03,0.01,0.01,0.03,0.02,0.49,0.02,0.02,0.06
+Peru,MtCO2e,0.07,0.07,0.07,0.07,0.07,0.07,0.08,0.09,0.15,0.13,0.02,0.00,0.04,0.09,0.04,0.22,0.05,0.10,0.04,0.03,0.12,0.02,0.08,0.05,0.04,0.05,0.06,0.02,0.05
+Ukraine,MtCO2e,0.03,0.03,0.04,0.04,0.04,0.04,0.02,0.02,0.02,0.03,0.01,0.01,0.02,0.03,0.01,0.06,0.03,0.01,0.01,0.07,0.05,0.03,0.04,0.06,0.11,0.14,0.01,0.02,0.05
+North Korea,MtCO2e,0.06,0.06,0.06,0.06,0.06,0.06,0.07,0.23,0.09,0.06,0.06,0.05,0.01,0.01,0.20,0.06,0.02,0.01,0.03,0.13,0.01,0.06,0.00,0.01,0.18,0.07,0.00,0.01,0.05
+Nigeria,MtCO2e,1.83,1.83,1.83,1.83,1.83,1.83,8.95,7.61,8.94,7.57,8.39,0.20,0.17,0.24,0.12,0.36,0.18,0.13,0.14,0.07,0.11,0.07,0.05,0.09,0.06,0.05,0.15,0.11,0.04
+Nicaragua,MtCO2e,0.07,0.07,0.07,0.07,0.07,0.07,0.08,0.15,0.55,0.14,0.16,0.00,0.00,0.08,0.01,0.08,0.02,0.01,0.02,0.01,0.03,0.02,0.01,0.04,0.05,0.02,0.05,0.01,0.04
+Belarus,MtCO2e,0.01,0.01,0.02,0.02,0.02,0.02,0.03,0.02,0.03,0.03,0.01,0.01,0.07,0.04,0.01,0.00,0.02,0.00,0.00,0.00,0.00,0.00,0.01,0.00,0.03,0.01,0.00,false,0.03
+Guinea,MtCO2e,0.13,0.13,0.13,0.13,0.13,0.13,0.15,0.25,0.58,0.43,0.26,0.02,0.04,0.08,0.08,0.09,0.11,0.09,0.10,0.08,0.07,0.09,0.11,0.10,0.09,0.14,0.07,0.04,0.02
+Bangladesh,MtCO2e,0.05,0.05,0.05,0.05,0.05,0.05,0.07,0.07,0.05,0.08,0.05,0.09,0.00,0.03,0.01,0.03,0.18,0.03,0.07,0.09,0.01,0.02,0.03,0.12,0.10,0.02,0.01,0.00,0.02
+Chile,MtCO2e,0.09,0.09,0.09,0.09,0.09,0.09,0.08,0.15,0.12,0.13,0.06,0.01,0.06,0.04,0.03,0.06,0.04,0.04,0.11,0.05,0.03,0.08,0.06,0.02,0.07,0.26,0.05,0.62,0.02
+Senegal,MtCO2e,0.38,0.38,0.38,0.38,0.38,0.38,0.75,0.96,1.67,2.39,1.57,0.00,0.00,0.00,0.02,0.04,0.06,0.06,0.06,0.05,0.04,0.03,0.05,0.04,0.03,0.02,0.03,0.01,0.02
+Gabon,MtCO2e,0.02,0.02,0.02,0.02,0.02,0.02,0.05,0.03,0.03,0.03,0.02,0.00,0.01,0.01,0.04,0.02,0.02,0.01,0.02,0.01,0.02,0.03,0.01,0.02,0.01,0.02,0.02,0.02,0.02
+Ghana,MtCO2e,0.14,0.14,0.14,0.14,0.14,0.14,0.12,0.40,1.05,0.59,0.65,0.01,0.01,0.01,0.01,0.01,0.03,0.03,0.01,0.00,0.00,0.01,0.01,0.01,0.00,0.01,0.04,0.01,0.02
+Benin,MtCO2e,0.40,0.40,0.40,0.40,0.40,0.40,0.47,0.39,0.98,0.83,0.57,0.04,0.05,0.03,0.02,0.09,0.05,0.03,0.02,0.02,0.00,0.02,0.00,0.01,0.00,0.00,0.01,0.02,0.01
+Portugal,MtCO2e,0.04,0.04,0.04,0.04,0.04,0.04,0.10,0.06,0.09,0.07,0.05,0.00,0.01,0.06,0.00,0.06,0.01,0.00,false,0.00,0.01,0.00,0.01,0.01,0.00,0.01,0.06,0.25,0.01
+Sierra Leone,MtCO2e,0.05,0.05,0.05,0.05,0.05,0.05,0.06,0.09,0.19,0.14,0.13,0.00,0.00,0.04,0.05,0.03,0.06,0.03,0.01,0.02,0.01,0.01,0.02,0.02,0.04,0.20,0.02,0.03,0.01
+Costa Rica,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.04,0.02,0.02,0.01,0.01,0.01,0.00,0.00,false,0.02,false,0.00,0.00,false,0.02,0.02,0.01,0.03,0.03,0.01,0.01
+Liberia,MtCO2e,0.06,0.06,0.06,0.06,0.06,0.06,0.03,0.02,0.04,0.03,0.03,false,false,0.03,0.01,false,0.08,0.01,0.03,0.30,0.02,0.04,0.02,0.03,0.15,0.40,0.03,0.03,0.01
+Guatemala,MtCO2e,0.29,0.29,0.29,0.29,0.29,0.29,0.68,0.47,1.90,0.53,1.23,0.01,0.05,0.72,0.01,0.39,0.05,0.14,0.06,0.19,0.05,0.04,0.03,0.09,0.01,0.07,0.09,0.08,0.01
+Belize,MtCO2e,0.04,0.04,0.04,0.04,0.04,0.04,0.06,0.04,0.09,0.05,0.08,0.02,0.03,0.11,0.00,0.04,0.01,0.05,0.02,0.01,0.02,0.15,0.00,0.05,0.01,0.02,0.02,0.04,0.01
+Japan,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.01,0.00,0.00,0.01,0.00,0.01,0.01,0.00,0.00,0.01,0.00,0.00,0.02,0.01,0.00,0.01,0.01
+Philippines,MtCO2e,0.03,0.03,0.03,0.03,0.03,0.03,0.04,0.05,0.16,0.05,0.05,0.00,0.03,0.02,0.03,0.05,0.01,0.02,0.01,0.01,0.10,0.01,0.00,0.02,0.03,0.03,0.05,0.01,0.01
+Uganda,MtCO2e,0.14,0.14,0.14,0.14,0.14,0.14,0.23,0.56,0.68,0.91,0.54,0.02,0.03,0.03,0.02,0.03,0.02,0.01,0.02,0.01,0.02,0.02,0.04,0.02,0.03,0.02,0.02,0.03,0.01
+Cuba,MtCO2e,0.03,0.03,0.03,0.03,0.03,0.03,0.04,0.04,0.07,0.08,0.10,0.01,0.02,0.01,0.02,0.04,0.03,0.01,0.01,0.04,0.01,0.03,0.01,0.02,0.01,0.03,0.01,0.02,0.01
+Ecuador,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.01,0.01,0.00,0.01,0.00,0.00,0.00,0.01,0.00,0.01,false,0.00,0.00,0.00,0.02,0.00,0.00,0.01,0.00,0.00,0.00
+Sweden,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.00,false,false,false,false,false,false,0.00,false,false,false,false,false,false,false,0.01,false,false,false,0.00
+Bahamas,MtCO2e,0.03,0.03,0.03,0.03,0.03,0.03,0.07,0.07,0.08,0.08,0.10,0.01,0.01,0.00,0.02,0.02,0.01,0.00,0.02,0.01,0.01,0.02,0.00,0.03,0.01,0.01,0.02,0.03,0.00
+El Salvador,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,false,0.00,0.00,0.00,0.00,0.00,false,0.00,0.00,0.00,false,false,false,false,false,false,0.00,0.01,false,0.01,false,0.01,0.00
+Guyana,MtCO2e,0.02,0.02,0.02,0.02,0.02,0.02,0.03,0.05,0.20,0.02,0.02,0.01,0.01,0.03,0.00,0.01,0.00,0.00,0.00,0.00,0.02,0.00,0.00,0.00,0.00,0.01,0.02,0.00,0.00
+Italy,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.02,0.03,0.00,0.00,0.00,0.00,false,0.00,0.03,0.00,0.00,false,0.00,0.02,0.00,0.00,0.00,0.00,0.03,0.00
+Sudan,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.02,0.03,0.04,0.02,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Togo,MtCO2e,0.03,0.03,0.03,0.03,0.03,0.03,0.07,0.09,0.17,0.24,0.05,0.01,0.01,0.01,0.01,0.02,0.01,0.01,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.00
+Bhutan,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.04,0.02,0.01,0.00,0.00,0.01,0.00,0.01,0.04,0.00,0.00,0.02,0.01,0.03,0.00,0.02,0.02,0.01,0.00,0.00
+Mongolia,MtCO2e,0.10,0.10,0.10,0.10,0.10,0.10,0.17,0.98,0.51,0.16,0.39,0.00,0.02,0.00,false,false,0.00,0.00,0.00,0.03,false,0.02,0.00,false,false,0.02,false,0.01,0.00
+Pakistan,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,false,0.00,0.00,0.00,false,0.00,false,0.00,0.00,false,0.01,false,0.00,false,false,0.00,false,false,false,0.00,0.00,0.00
+Eswatini,MtCO2e,0.02,0.02,0.02,0.02,0.02,0.02,0.06,0.04,0.08,0.05,0.04,0.01,0.00,0.01,0.01,0.01,0.00,0.07,0.04,0.00,0.01,0.01,0.01,0.01,0.01,0.00,0.01,0.00,0.00
+Timor-Leste,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,false,0.01,false,0.00,false,0.00,0.01,false,0.00,0.00,0.01,0.00,0.00,0.00,false,0.00,0.00,false,0.00,0.00,false,0.00,0.00
+Armenia,MtCO2e,false,false,false,false,false,false,false,false,0.00,false,false,false,false,false,false,false,0.00,false,false,false,0.00,false,false,false,false,false,false,false,0.00
+Austria,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,0.00,false,false,false,false,false,false,false,false,0.00,false,false,false,0.00
+Azerbaijan,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.00,0.02,false,0.00,false,false,false,false,0.00,false,false,0.00,false,false,false,false,false,false,0.00,0.00
+Côte d'Ivoire,MtCO2e,0.09,0.09,0.09,0.09,0.09,0.09,0.10,0.24,0.53,0.54,0.41,0.03,0.01,0.01,0.02,0.01,0.01,0.06,0.02,0.01,0.01,0.00,0.03,0.00,0.00,0.00,0.02,0.00,0.00
+Fiji,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.00,false,false,false,0.01,false,false,false,false,0.00,0.01,0.00,false,false,false,0.00,0.00,false,false,0.00
+France,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.01,0.00,0.03,0.01,0.02,false,0.00,0.01,0.01,0.01,0.00,0.03,0.00,0.01,0.00,0.00,0.03,0.00
+Greece,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.02,0.13,0.01,0.03,false,false,false,false,false,0.00,0.03,0.00,false,false,0.01,0.00,false,0.00,false,0.01,0.00,0.00
+Iran,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.03,0.01,0.01,0.02,0.01,false,false,false,false,0.00,false,0.00,false,false,0.03,0.00,0.00,false,false,false,false,0.00,0.00
+Latvia,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,false,0.00,false,0.00,0.00,0.00,0.00,0.01,0.00,false,false,false,false,false,false,false,false,false,false,0.00,false,false,0.00
+Norway,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,false,false,false,false,false,0.00,false,false,false,false,false,false,false,false,false,false,false,0.00
+Panama,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.05,0.01,0.00,0.00,0.00,0.00,0.01,0.00,false,0.00,0.00,0.00,0.01,0.01,false,0.00
+Romania,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.02,0.02,0.02,0.01,false,0.00,0.00,0.00,0.00,0.01,0.00,0.00,0.00,0.00,0.01,0.00,0.00,0.00,false,false,0.01,0.00
+Slovakia,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,0.00,false,false,false,false,false,false,false,false,false,false,0.00
+Spain,MtCO2e,0.03,0.03,0.03,0.03,0.03,0.03,0.07,0.19,0.13,0.06,0.11,0.00,0.01,0.01,0.01,0.03,0.03,0.01,0.00,0.01,0.00,0.01,0.01,0.00,0.00,0.01,0.01,0.03,0.00
+Suriname,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.02,0.05,0.01,0.00,0.00,0.00,0.02,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Uruguay,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.01,0.01,0.01,false,false,false,0.00,0.00,false,false,0.00,false,false,0.00,false,false,false,false,false,false,0.00
+Afghanistan,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Albania,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.01,0.01,0.05,false,false,false,false,false,false,0.00,false,0.00,false,0.00,0.00,false,false,false,false,0.00,false
+Algeria,MtCO2e,0.04,0.04,0.04,0.04,0.04,0.04,0.06,0.04,0.05,0.05,0.24,0.00,0.01,0.03,0.01,0.02,0.03,0.09,0.05,0.01,0.00,0.04,0.09,0.01,0.01,0.00,0.02,0.14,false
+Andorra,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Antigua and Barbuda,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Bahrain,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Barbados,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Belgium,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Bosnia and Herzegovina,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.04,0.02,0.09,0.00,0.00,0.01,0.00,0.00,0.00,false,0.00,false,0.00,0.01,0.01,0.00,0.00,false,false,0.00,false
+Botswana,MtCO2e,0.05,0.05,0.05,0.05,0.05,0.05,0.20,0.17,0.22,0.16,0.05,0.00,false,0.00,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Brunei,MtCO2e,0.10,0.10,0.10,0.10,0.10,0.10,0.04,0.09,1.19,0.01,0.02,0.01,false,0.04,0.00,0.01,false,false,false,0.01,0.00,false,false,false,0.02,0.01,0.01,false,false
+Bulgaria,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.00,0.01,0.00,0.02,false,false,false,false,0.00,0.00,0.01,0.00,false,0.01,0.00,false,0.00,0.00,0.00,0.00,0.00,false
+Burkina Faso,MtCO2e,0.94,0.94,0.94,0.94,0.94,0.94,0.87,0.82,1.28,0.97,1.14,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Burundi,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.02,0.02,0.01,0.02,0.01,false,0.00,false,0.00,false,0.00,0.00,false,false,0.01,false,false,0.00,false,false,false,false,false
+Cape Verde,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Comoros,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,false,false,false,false,false,0.01,false,false,false,false,false,false,false,false,false,0.00,false,false,false
+Cook Islands,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Croatia,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.04,0.00,0.01,false,0.00,false,false,0.00,false,0.00,0.00,false,false,0.01,0.00,false,false,0.00,false,0.00,false
+Cyprus,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Czech Republic,MtCO2e,0.00,0.00,0.00,false,false,false,false,false,false,false,false,false,false,0.00,false,false,false,false,false,0.00,false,false,false,false,0.00,false,false,0.00,false
+Denmark,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Djibouti,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Dominica,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Dominican Republic,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.04,0.02,0.03,0.03,0.00,false,0.00,0.00,0.04,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.02,false,false,false
+Egypt,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Equatorial Guinea,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Eritrea,MtCO2e,0.00,0.00,0.00,0.01,0.01,0.01,false,false,false,0.01,0.02,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Estonia,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,false,0.00,0.00,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Finland,MtCO2e,false,false,false,false,false,false,0.00,0.00,false,false,0.00,false,false,false,false,false,0.00,false,false,false,false,false,false,false,false,false,false,false,false
+Gambia,MtCO2e,0.17,0.17,0.17,0.17,0.17,0.17,0.12,0.14,0.11,0.30,0.23,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Georgia,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,false,0.00,0.00,0.00,0.00,0.00,false,0.00,0.00,0.01,false,false,0.00,false,0.00,false,0.00,false
+Germany,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,false,false,false,false,false,false,false,0.00,false,false,false,0.00,false,0.00,false,0.00,false,false,0.00,false,false,0.00,false
+Grenada,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Haiti,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Hungary,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,false,false,0.00,false,false,false,false,false,0.00,false,0.01,0.00,false,false,false,false,false,false,0.00,false,false,false,false
+Iceland,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Iraq,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.00,0.01,0.02,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Ireland,MtCO2e,false,false,false,false,false,false,0.00,0.00,0.00,0.00,0.00,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Israel,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Jamaica,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,false,false,false,false,0.00,false,false,false,false,false,false,false,false,false,0.00,false,false,false
+Jordan,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Kazakhstan,MtCO2e,0.03,0.03,0.03,0.03,0.03,0.03,0.09,0.21,0.10,0.07,0.08,false,0.01,0.00,0.00,false,false,0.01,0.00,false,false,0.00,0.00,false,false,0.00,false,false,false
+Kenya,MtCO2e,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.11,0.04,0.08,0.12,0.00,false,0.00,false,0.00,0.00,0.00,0.00,0.00,false,0.00,0.00,false,false,0.02,false,0.00,false
+Kiribati,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+South Korea,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.02,false,0.00,0.01,0.01,0.01,0.00,0.00,false,0.00,0.00,0.01,false,0.00,0.01,false,false,0.00,false
+Kuwait,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Kyrgyzstan,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,false,0.01,0.00,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Lebanon,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Lesotho,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.01,0.05,0.01,0.00,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Lithuania,MtCO2e,false,false,false,false,false,false,false,false,false,0.00,false,false,0.00,0.00,false,false,false,false,false,0.00,false,false,false,false,false,false,false,false,false
+Luxembourg,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Macedonia,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.02,false,false,false,false,false,false,0.00,0.00,false,false,0.00,0.00,false,false,false,false,false,false
+Maldives,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Mali,MtCO2e,1.55,1.55,1.55,1.55,1.55,1.55,1.06,1.42,3.64,3.41,1.84,false,false,false,false,false,0.00,0.00,false,false,false,false,false,false,false,false,0.00,false,false
+Malta,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Marshall Islands,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Mauritania,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Mauritius,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Micronesia,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Moldova,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,false,false,false,false,false,false,false,false,false,0.00,false,0.00,false,false,0.00,0.00,0.00,0.00,0.02,0.00,false,0.00,false
+Montenegro,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,false,0.00,0.00,false,false,false,0.00,false,false,false,0.00,0.00,false,false,0.00,false,0.01,false
+Morocco,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,false,false,false,false,0.00,0.00,0.00,false,false,false,false,false,0.00,false,false,false,0.00,false,false
+Namibia,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.00,0.00,0.03,0.06,0.08,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Nauru,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Netherlands,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+New Zealand,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,false,false,false,0.00,0.00,false,0.00,false,false,false,0.00,0.00,false,false,false,0.00,0.00,false,false,false,0.00,false
+Niger,MtCO2e,0.10,0.10,0.10,0.10,0.10,0.10,0.11,0.07,0.17,0.07,0.10,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Niue,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Oman,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Palau,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Poland,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,false,false,0.00,false,false,false,0.00,0.01,false,0.00,false,false,false,false,false,false,0.00,false,false,false,false,0.00,false
+Qatar,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Rwanda,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.02,0.00,0.00,false,0.01,false,false,false,false,false,false,false,0.00,false,false,0.00,false,false,0.00,false,false
+Saint Kitts and Nevis,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Saint Lucia,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Saint Vincent and the Grenadines,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Samoa,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,false,false,false,false,false,false,false,false,false,false,false,0.00,false,false,false,false,false,false,false
+Sao Tome and Principe,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Saudi Arabia,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Serbia,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.01,0.02,0.01,0.03,false,0.00,0.00,false,false,false,0.01,false,0.00,false,0.01,0.00,false,false,false,false,false,false
+Seychelles,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Singapore,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Slovenia,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,0.00,false,false,0.00,false,false,false,false,0.00,0.00,false,false,false,false,false,false
+Solomon Islands,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Somalia,MtCO2e,false,false,false,false,false,false,0.00,0.00,0.00,0.00,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Sri Lanka,MtCO2e,0.01,0.01,0.01,0.01,0.01,0.01,0.03,0.01,0.03,0.04,0.02,false,0.00,0.00,0.00,false,false,false,false,false,false,false,0.00,false,false,false,0.00,false,false
+Switzerland,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,0.00,false,false,false,false,0.00,false,false,false,false
+Syria,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,0.00,false,false,false,false,false,false
+Tajikistan,MtCO2e,0.00,0.00,false,false,false,false,0.00,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Tonga,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Trinidad and Tobago,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.01,false,false,0.00,false,false,false,false,false,false,0.00,false,false,false,false,false,0.00,0.00,false
+Tunisia,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,false,false,false,false,0.00,false,false,false,false,false,false,false,false,false,false,false,0.00,0.00,0.00,0.00,false,0.01,false
+Turkey,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,0.01,0.00,0.01,0.01,0.00,false,false,0.00,false,0.00,0.00,0.00,0.00,false,false,0.00,0.00,0.00,0.00,0.00,false,0.00,false
+Turkmenistan,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Tuvalu,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+United Arab Emirates,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+United Kingdom,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Uzbekistan,MtCO2e,0.02,0.02,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.02,0.04,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Vanuatu,MtCO2e,0.00,0.00,0.00,0.00,0.00,0.00,false,false,false,false,false,false,false,false,false,0.00,false,false,false,false,false,false,false,false,false,0.00,false,0.00,false
+Yemen,MtCO2e,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Data source,CAIT
+Data for,Countries/Regions: World. Sectors/Subsectors: Land-Use Change and Forestry. Gases: CH4. Calculation: Total. Show data by Countries

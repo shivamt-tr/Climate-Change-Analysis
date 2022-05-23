@@ -1,0 +1,169 @@
+,Country,Code,"Plastic waste generation (tonnes, total)"
+0,Albania,ALB,73364
+1,Algeria,DZA,1898343
+2,Angola,AGO,528843
+3,Antigua and Barbuda,ATG,22804
+4,Argentina,ARG,2753550
+5,Aruba,ABW,9352
+6,Australia,AUS,900658
+7,Bahamas,BHS,51364
+8,Bahrain,BHR,59785
+9,Bangladesh,BGD,1888170
+10,Barbados,BRB,58164
+11,Belgium,BEL,318151
+12,Belize,BLZ,20191
+13,Benin,BEN,144382
+14,Bermuda,BMU,5990
+15,Bosnia and Herzegovina,BIH,195633
+16,Brazil,BRA,11852055
+17,British Virgin Islands,VGB,2504
+18,Brunei,BRN,3688
+19,Bulgaria,BGR,415707
+20,Cambodia,KHM,344698
+21,Cameroon,CMR,335305
+22,Canada,CAN,1154309
+23,Cape Verde,CPV,11919
+24,Cayman Islands,CYM,5106
+25,Channel Islands,OWID_CIS,14678
+26,Chile,CHL,738106
+27,China,CHN,59079741
+28,Colombia,COL,2413455
+29,Comoros,COM,50599
+30,Congo,COG,110479
+31,Costa Rica,CRI,428029
+32,Cote d'Ivoire,CIV,766988
+33,Croatia,HRV,406347
+34,Cuba,CUB,368154
+35,Curacao,CUW,13678
+36,Cyprus,CYP,100713
+37,Democratic Republic of Congo,COD,1059795
+38,Denmark,DNK,95171
+39,Djibouti,DJI,31999
+40,Dominica,DMA,3885
+41,Dominican Republic,DOM,520238
+42,Ecuador,ECU,801321
+43,Egypt,EGY,5464471
+44,El Salvador,SLV,330763
+45,Equatorial Guinea,GNQ,49990
+46,Eritrea,ERI,72120
+47,Estonia,EST,85534
+48,Faeroe Islands,FRO,4466
+49,Fiji,FJI,59324
+50,Finland,FIN,458084
+51,France,FRA,4557128
+52,French Polynesia,PYF,24634
+53,Gabon,GAB,32329
+54,Gambia,GMB,29646
+55,Georgia,GEO,97443
+56,Germany,DEU,14476561
+57,Ghana,GHA,357877
+58,Gibraltar,GIB,3053
+59,Greece,GRC,811858
+60,Greenland,GRL,5234
+61,Grenada,GRD,12417
+62,Guam,GUM,14666
+63,Guatemala,GTM,1495229
+64,Guinea,GIN,118196
+65,Guinea-Bissau,GNB,30666
+66,Guyana,GUY,159681
+67,Haiti,HTI,328487
+68,Honduras,HND,565317
+69,Hong Kong,HKG,1020406
+70,Iceland,ISL,32620
+71,India,IND,4493080
+72,Indonesia,IDN,5045714
+73,Iran,IRN,3919268
+74,Iraq,IRQ,1156524
+75,Ireland,IRL,715716
+76,Israel,ISR,826436
+77,Italy,ITA,2899258
+78,Jamaica,JAM,34962
+79,Japan,JPN,7993489
+80,Jordan,JOR,377506
+81,Kenya,KEN,407506
+82,Kiribati,KIR,3859
+83,Kuwait,KWT,750690
+84,Latvia,LVA,94935
+85,Lebanon,LBN,148807
+86,Liberia,LBR,121050
+87,Libya,LBY,324250
+88,Lithuania,LTU,149227
+89,Macao,MAC,72126
+90,Madagascar,MDG,123526
+91,Malaysia,MYS,2031675
+92,Maldives,MDV,43134
+93,Malta,MLT,32377
+94,Marshall Islands,MHL,3674
+95,Mauritania,MRT,59287
+96,Mauritius,MUS,104971
+97,Mexico,MEX,3725463
+98,Micronesia (country),FSM,3895
+99,Monaco,MCO,3412
+100,Montenegro,MNE,32557
+101,Morocco,MAR,863555
+102,Mozambique,MOZ,132612
+103,Myanmar,MMR,1373018
+104,Namibia,NAM,114222
+105,Nauru,NRU,527
+106,Netherlands,NLD,2571398
+107,New Caledonia,NCL,22995
+108,New Zealand,NZL,525630
+109,Nicaragua,NIC,299480
+110,Nigeria,NGA,5961750
+111,North Korea,PRK,484700
+112,Northern Mariana Islands,MNP,5006
+113,Norway,NOR,499682
+114,Oman,OMN,93251
+115,Pakistan,PAK,6412210
+116,Palau,PLW,1076
+117,Palestine,PSE,87636
+118,Panama,PAN,192818
+119,Papua New Guinea,PNG,267234
+120,Peru,PER,1543879
+121,Philippines,PHL,2565766
+122,Poland,POL,1346905
+123,Portugal,PRT,1022683
+124,Puerto Rico,PRI,342306
+125,Qatar,QAT,103933
+126,Romania,ROU,310385
+127,Russia,RUS,5839685
+128,Saint Kitts and Nevis,KNA,12280
+129,Saint Lucia,LCA,32882
+130,Saint Vincent and the Grenadines,VCT,8818
+131,Samoa,WSM,7000
+132,Sao Tome and Principe,STP,6571
+133,Saudi Arabia,SAU,1561618
+134,Senegal,SEN,485586
+135,Seychelles,SYC,11730
+136,Sierra Leone,SLE,96655
+137,Singapore,SGP,359483
+138,Sint Maarten (Dutch part),SXM,3263
+139,Slovenia,SVN,108421
+140,Solomon Islands,SLB,19842
+141,Somalia,SOM,237569
+142,South Africa,ZAF,4465798
+143,South Korea,KOR,2025772
+144,Spain,ESP,4709157
+145,Sri Lanka,LKA,2621606
+146,Sudan,SDN,1292740
+147,Suriname,SUR,31300
+148,Sweden,SWE,164305
+149,Syria,SYR,1365594
+150,Tanzania,TZA,386998
+151,Thailand,THA,3532495
+152,Togo,TGO,135294
+153,Tonga,TON,8476
+154,Trinidad and Tobago,TTO,1745123
+155,Tunisia,TUN,559235
+156,Turkey,TUR,5596657
+157,Turks and Caicos Islands,TCA,2851
+158,Tuvalu,TUV,554
+159,Ukraine,UKR,1724509
+160,United Arab Emirates,ARE,600741
+161,United Kingdom,GBR,4925590
+162,United States,USA,37825550
+163,Uruguay,URY,310379
+164,Vanuatu,VUT,25443
+165,Venezuela,VEN,2669998
+166,Vietnam,VNM,3268227
+167,Yemen,YEM,887497
